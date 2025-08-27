@@ -20,7 +20,7 @@ git status
 ```
 Para adicionar algo ao arquivo  
 ```bash
-git add 
+git add  
 ```
 Para informar que salvamos 
 ```bash
