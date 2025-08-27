@@ -18,11 +18,11 @@ Se ele estiver vermelho, precisa adicionar os arquivos, se estiver verde, estão
 ```bash
 git status 
 ```
-Para adicionar algo ao arquivo 
+Para adicionar algo ao arquivo  
 ```bash
 git add 
 ```
 Para informar que salvamos 
 ```bash
 git commit -m "MSG"
-``` 
+```  
